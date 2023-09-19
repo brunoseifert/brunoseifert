@@ -5,7 +5,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunoseifert&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?brunoseifert={brunoseifert}"  />
+<img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={brunoseifertt}&theme=radical&mode=weekly"  />
  </div>
  
  &nbsp;
