@@ -4,8 +4,8 @@
 <p align="center">I was in the military for 8 years, since then I have been preparing to be a Full Stack Developer, I am studying my final year in Systems Analysis and Development and preparing myself for the market.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunoseifert&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-brunoseifert.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
