@@ -1,6 +1,6 @@
 <h2 align="center">Hey Guys :wave: I'm Bruno Seifert </h2>
 
-<p align="center">I dedicated eight years of my life to military service, an experience that instilled in me the values of discipline and commitment. Subsequently, I embarked on a deliberate path towards becoming a Full Stack Developer. Currently, I find myself in the concluding stages of my academic pursuit in Systems Analysis and Development, meticulously preparing to navigate the professional landscape.</p>&nbsp;
+<p align="center">I dedicated eight years of my life to military service, an experience that instilled in me the values of discipline and commitment. Subsequently, I embarked on a deliberate path towards becoming a Full Stack Developer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
