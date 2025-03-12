@@ -4,9 +4,6 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-<img height="180em" src="https://github-readme-stats-rho-two-72.vercel.app/api?username=brunoseifert&show_icons=true&count_private=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-rho-two-72.vercel.app/api/top-langs/?username=brunoseifert&layout=compact&langs_count=7&theme=algolia"/>
-
 
  </div>
  
